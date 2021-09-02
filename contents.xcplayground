@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true'>
+    <pages>
+        <page name='Networking1'/>
+        <page name='Explorations'/>
+        <page name='Networking2'/>
+        <page name='TestDummy'/>
+        <page name='Networking3'/>
+        <page name='Networking4'/>
+    </pages>
+</playground>
